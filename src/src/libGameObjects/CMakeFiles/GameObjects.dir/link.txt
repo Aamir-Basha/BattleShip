@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libGameObjects.a CMakeFiles/GameObjects.dir/PlayerSea.cpp.o CMakeFiles/GameObjects.dir/PlayerSea_output.cpp.o CMakeFiles/GameObjects.dir/PlayerSea_stats.cpp.o CMakeFiles/GameObjects.dir/Ship.cpp.o CMakeFiles/GameObjects.dir/Vortex.cpp.o CMakeFiles/GameObjects.dir/DoubleMissile.cpp.o CMakeFiles/GameObjects.dir/TumblingMissile.cpp.o CMakeFiles/GameObjects.dir/Missile.cpp.o CMakeFiles/GameObjects.dir/Output.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libGameObjects.a

@@ -1,0 +1,18 @@
+# ninja log v5
+1	2982	1689163401461171828	src/app/CMakeFiles/Battleship.dir/init.cpp.o	af5cd5e152159327
+1	3010	1689163401484427339	src/app/CMakeFiles/Battleship.dir/main.cpp.o	fafcd16574f84717
+2	3866	1689163402338645221	src/app/CMakeFiles/Battleship.dir/game.cpp.o	25aa6a1f74293e0b
+2986	5465	1689163403946491264	src/app/CMakeFiles/Battleship.dir/utils.cpp.o	71d9ed6b66e9d50
+3010	6849	1689163405325416098	src/libGameObjects/CMakeFiles/GameObjects.dir/PlayerSea.cpp.o	1533775b0683b839
+3866	7288	1689163405758796896	src/libGameObjects/CMakeFiles/GameObjects.dir/PlayerSea_output.cpp.o	bc8ef3babd3d1b7b
+5466	9649	1689163408125154763	src/libGameObjects/CMakeFiles/GameObjects.dir/PlayerSea_stats.cpp.o	1f78eae34eae3e9b
+6850	9922	1689163408399787617	src/libGameObjects/CMakeFiles/GameObjects.dir/Ship.cpp.o	1d3d16891a078939
+7288	10254	1689163408731785468	src/libGameObjects/CMakeFiles/GameObjects.dir/Vortex.cpp.o	fc11454931ca1a1a
+9650	11577	1689163410056257520	src/libGameObjects/CMakeFiles/GameObjects.dir/DoubleMissile.cpp.o	7721bcde5170f140
+9923	12309	1689163410776697473	src/libGameObjects/CMakeFiles/GameObjects.dir/TumblingMissile.cpp.o	59d63dd976dd27bc
+10254	12853	1689163411315624307	src/libGameObjects/CMakeFiles/GameObjects.dir/Missile.cpp.o	10e4c0e8fb586c00
+11577	13708	1689163412174321384	src/libGameObjects/CMakeFiles/GameObjects.dir/Output.cpp.o	1c5cfb8c5e7d4565
+12309	14098	1689163412574346428	src/libSea/CMakeFiles/Sea.dir/Object.cpp.o	7bbcd845247823a3
+14098	14217	1689163412708532000	src/libSea/libSea.a	e91e342943175b52
+14218	14343	1689163412834030000	src/libGameObjects/libGameObjects.a	59d2e7e23d752b57
+14343	14530	1689163413011187085	src/app/Battleship	4c3f01ec99eda96f

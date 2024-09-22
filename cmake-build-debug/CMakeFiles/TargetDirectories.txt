@@ -1,0 +1,13 @@
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/app/CMakeFiles/Battleship.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/app/CMakeFiles/edit_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/app/CMakeFiles/rebuild_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/libGameObjects/CMakeFiles/GameObjects.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/libGameObjects/CMakeFiles/edit_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/libGameObjects/CMakeFiles/rebuild_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/libSea/CMakeFiles/Sea.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/libSea/CMakeFiles/edit_cache.dir
+/Users/amerbasha/Gruppe_Ke1F/blatt8/cmake-build-debug/src/libSea/CMakeFiles/rebuild_cache.dir
