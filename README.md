@@ -23,15 +23,14 @@ make
 ```
 Gameplay: Use your strategy and vortex attacks to sink your opponent's ships before they sink yours
 
-Tech Used
+## Tech Used
 C++17: Utilizes modern features for optimized code.
-CMake: Manages the build system easily across platforms 🛠️.
+CMake: Manages the build system easily across platforms.
 Why This Project?
 I built this while studying Computer Science at TU Braunschweig. It reflects my interest in creating interactive applications and improving my problem-solving skills with C++. It's all about making something fun and challenging
 
-🚀 Future Enhancements
-I plan to expand Battleship with:
-
-Multiplayer Mode: Compete against friends or AI.
-Improved UI: Create a more appealing interface.
-More Game Modes: Add new variations to keep it exciting.
+## Future Enhancements
+- I plan to expand Battleship with:
+- Multiplayer Mode: Compete against friends or AI.
+- Improved UI: Create a more appealing interface.
+- More Game Modes: Add new variations to keep it exciting.
