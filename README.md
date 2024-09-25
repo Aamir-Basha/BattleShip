@@ -9,7 +9,7 @@ Precision: Every attack is calculated accurately, no guessing involved!
 How to Play
 Clone the Repo: Get the code and compile it:
 
-bash
+
 ```bash
 git clone https://github.com/amer-basha/battleship.git
 ```
